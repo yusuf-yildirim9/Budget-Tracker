@@ -2,7 +2,6 @@
 
 A sleek, functional, and responsive **Budget Tracker Application** designed to help users manage their finances effectively. Users can set a total budget, add specific expenses with titles and costs, and dynamically track their total budget, total expenditures, and remaining balance in real-time.
 
-🚀 **[Live Demo Here](https://your-github-username.github.io/your-repo-name/)**
 
 ---
 
